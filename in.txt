@@ -1,0 +1,10 @@
+file ./hello
+disassemble main
+ret
+ret
+ret
+ret
+ret
+q
+quit
+
